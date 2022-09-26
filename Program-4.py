@@ -1,5 +1,5 @@
 dict={}
-list=eval(input("Enter output"))
+list=eval(input("Enter input"))
 for num in range(1,10):
     for n in list:
         if n%num==0:
